@@ -6,5 +6,5 @@ docker build -t js_calci .
 ```
 4. Run below command to run calculator
 ```
-docker run -d -p 80:80 
+docker run -d -p 80:80 js_calci:latest
 ```
